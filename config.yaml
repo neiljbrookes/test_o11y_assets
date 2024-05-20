@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://gist.githubusercontent.com/elasticmachine/366f52d31f23ac71d627bd90978cc56b/raw/v2.3.json
+# TODO example values for all required fields, please make sure to update these!
+owner:
+  division: engineering
+  org: engprod
+  team: sre
+  project: neil-local-dev-env

@@ -1,0 +1,13 @@
+modules:
+  - name: elastic_agent_monitor_assets
+    # Define the cluster group(s) that this module targets
+    targets:
+      - serverless: logging
+    versions:
+      qa: "main"
+      staging: "main"
+  
+# This configuration option specifies the relative prefix for module sources.
+# It is used to define the path where the modules are located.
+module_source_prefix: "modules"
+

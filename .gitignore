@@ -1,0 +1,5 @@
+out/
+.o11y/baseconfig
+.o11y/baseconfig/
+.terraform.d/
+.cache/
