@@ -1,7 +1,0 @@
-s3_state_backend:
- qa:
-  # This is the location of the backend tf state.
-  key: test_o11y_assets/terraform.tfstate
- staging:
-  # This is the location of the backend tf state.
-  key: test_o11y_assets/terraform.tfstate
